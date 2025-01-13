@@ -1,0 +1,10 @@
+Dell_001: As a vendor, want to communicate to customers when they will stop receiving vulnerability remediations for a given product / product version under regular support
+Dell_002: As a consumer of a Dell product, want to know when I will stop receiving vulnerability remediations for all my product(s) under regular support
+Dell_003: As a vendor, want to remain compliant with EU CRA legislation and ensure security support period is available to customers at point of sale
+Dell_004: As a consumer, want to be able to programmatically retrieve the following information:
+    •	Product Name
+    •	Product Version
+    •	End of Life
+    •	End of Support
+    •	End of Security Support
+Dell_005: As a vendor who has adopted CSAF, want to be able to integrate the EoX data with existing CSAF / VEX datasets.
